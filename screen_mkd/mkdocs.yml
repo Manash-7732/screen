@@ -1,0 +1,12 @@
+site_name: AMERICANICHE ACADEMY
+dev_addr: 0.0.0.0:8000
+nav:
+  - Home: index.md
+  - About: about.md
+  - Installation: installation.md
+  - Command: command.md
+  - Process: process.md
+
+theme: readthedocs
+
+
